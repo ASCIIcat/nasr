@@ -4,7 +4,7 @@
 	"description": "Normal and Special Ranks",
 	"homepage": "http://www.godfathertalks.com",
 	"version": "2.1.0",
-	"time": "2020-02-19",
+	"time": "2020-08-12",
 	"license": "GPL-2.0",
 	"authors": [
 		{
@@ -18,6 +18,12 @@
 			"email": "mail@kasimi.net",
 			"homepage": "https://kasimi.net",
 			"role": "Lead Developer"
+		},
+		{
+			"name": "ASCIIcat",
+			"email": "asciicat@asciicat.xyz",
+			"homepage": "https://asciicat.xyz",
+			"role": "Jackass that wants to use this with 'small' changes"
 		}
 	],
 	"require": {
